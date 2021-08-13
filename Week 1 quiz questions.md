@@ -2,6 +2,7 @@
 
 ## 1. Which of the following are operators, and which are values?
 | Item | Operator or Value? | notes |
+| :--- | :--- | :--- |
 | * | Operator | multiply |
 | 'hello' | Value | string or str |
 | -88.8 | Value | floating point or float |
