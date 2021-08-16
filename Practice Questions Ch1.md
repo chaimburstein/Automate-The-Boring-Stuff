@@ -1,4 +1,4 @@
-# Week 1 Quiz
+# Practice Questions Chapter 1 - Python Basics
 
 ## 1. Which of the following are operators, and which are values?
 | Item | Operator or Value? | notes |
