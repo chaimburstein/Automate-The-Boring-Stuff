@@ -34,7 +34,7 @@
 |not not not True | False|
 |not False| True |
 
-## 4 What do the follwing expressions evaluate to?
+## 4. What do the following expressions evaluate to?
 |Expression| Evaluates to...|
 |---|---|
 |(5>4) and (3==5)| False|
@@ -43,3 +43,19 @@
 |not((5>4) or (3==5)) | False |
 |(True and True) and (True == False) | False|
 |(not False) or (not True) | True|
+
+## 5. What are the 6 comparison operators
+|Operator| Meaning |
+|---|---|
+|==|Equal to|
+|!=| not equal to|
+|>| Greater than|
+|<| Less than|
+|>=| Greater than or equal to|
+|<=| Less than or equal to|
+
+## 6. What is the difference between the equal to operator and the assignment operator
+* == Equal to operator example 2 == 1+1
+* = Assignment operator example hello = 2 
+
+## 7. Explain what a condition is and where you would use one. 
